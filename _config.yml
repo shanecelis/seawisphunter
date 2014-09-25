@@ -4,7 +4,7 @@ email: shane.celis@seawisphunter.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 twitter_username: seawisphunter
 github_username:  shanecelis
-baseurl: "/"
+baseurl: "seawisphunter.com/"
 
 # Build settings
 markdown: kramdown
