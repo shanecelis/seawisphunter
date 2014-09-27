@@ -25,6 +25,16 @@ a.active {
     color: #4c9ed5;
 }
 
+#about a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+    color: #121a21; //#2c3e50;
+    //font-weight: 700;
+}
+
 h1,
 h2,
 h3,
