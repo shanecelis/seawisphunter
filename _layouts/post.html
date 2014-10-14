@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  <!-- Header -->
+  <!-- <header> -->
+  <!--   <div class="container"> -->
+  <!--     <div class="row"> -->
+  <!--       <div class="col-md-12"> -->
+  <!--         <img class="img-responsive" src=" {{ page.img | prepend: site.baseurl }}" alt=""> -->
+  <!--         <div class="intro-text"> -->
+  <!--           <span class="name">{{ page.name }}</span> -->
+  <!--           <hr class="star-light"> -->
+  <!--           <\!-- <span class="skills"> -\-> -->
+  <!--           <\!--   Quadrapus&nbsp;Wrangler - Game&nbsp;Developer - Evolutionary&nbsp;Robotics&nbsp;Practitioner</span> -\-> -->
+  <!--         </div> -->
+  <!--       </div> -->
+  <!--     </div> -->
+  <!--   </div> -->
+  <!-- </header> -->
+  
+  <body id="page-top" class="index">
+
+    {% include navigation.html %}
+    <div class="page-content">
+      <section id="portfolio">
+        <div class="container">
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+            <img class="img-responsive" src=" {{ page.img | prepend: site.baseurl }}" alt="">
+            <h2>{{ page.name }}</h2>
+            <hr class="star-primary">
+          </div>
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 blog-main wrap">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+  </body>
+</html>

@@ -485,3 +485,8 @@ footer .footer-below {
     background-color: #ad4429;
     border-color: #ad4429;
 }
+
+.page-content
+{ 
+    padding-top: 65px
+}
