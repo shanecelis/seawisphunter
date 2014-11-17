@@ -22,26 +22,28 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 0; /* Try switching from #18bc9c to #4C9ED5 and from #2c3e50 to #E25A39 and from #233140 to #AD4429. */
-    color: #4c9ed5;
+    /*outline: 0;*/ /* Try switching from #18bc9c to #4C9ED5 and from #2c3e50 to #E25A39 and from #233140 to #AD4429. */
+    /*color: #4c9ed5;*/
+    color: #e25a39
 }
 
 #about a,
-a:hover,
-a:focus,
-a:active,
-a.active {
+#about a:hover,
+#about a:focus,
+#about a:active,
+#about a.active {
     outline: 0;
     color: #121a21; //#2c3e50;
     //font-weight: 700;
 }
 
 #portfolio a,
-a:hover,
-a:focus,
-a:active,
-a.active {
-    color: rgb(44, 62, 80); 
+#portfolio a:hover,
+#portfolio a:focus,
+#portfolio a:active,
+#portfolio a.active {
+    color: rgb(44, 62, 80);
+    outline: 0;
 }
 
 h1,
