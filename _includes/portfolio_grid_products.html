@@ -1,13 +1,13 @@
 <!-- Portfolio Grid Section -->
 <section id="portfolio">
-  <div class="container">
+  <div class="container" id="products">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Recent Posts</h2>
+        <h2>Products</h2>
         <hr class="star-primary">
       </div>
     </div>
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.categories.product limit: 5 %}
     {% assign modulo = forloop.index0 | modulo: 3 %}
     {% if modulo == 0 or forloop.first %}
     <div class="row">
@@ -27,17 +27,17 @@
       {% if modulo == 2 or forloop.last %}
       {% if forloop.last %}
 
-      <div class="col-sm-4 portfolio-item">
-        <a href="{{ "posts" | prepend: site.baseurl }}" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="{{ "img/all-posts.png" | prepend: site.baseurl }}" class="img-responsive" alt="See all posts...">
-          <h3 align="center">See all posts&hellip;</h3>
-        </a>
-      </div>
+      <!-- <div class="col-sm-4 portfolio-item"> -->
+      <!--   <a href="{{ "posts" | prepend: site.baseurl }}" class="portfolio-link" data-toggle="modal"> -->
+      <!--     <div class="caption"> -->
+      <!--       <div class="caption-content"> -->
+      <!--         <i class="fa fa-search-plus fa-3x"></i> -->
+      <!--       </div> -->
+      <!--     </div> -->
+      <!--     <img src="{{ "img/all-posts.png" | prepend: site.baseurl }}" class="img-responsive" alt="See all posts..."> -->
+      <!--     <h3 align="center">See all posts&hellip;</h3> -->
+      <!--   </a> -->
+      <!-- </div> -->
 
       {% endif %}
     </div>
