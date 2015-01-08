@@ -33,8 +33,8 @@ a.active {
 #about a:active,
 #about a.active {
     outline: 0;
-    color: #121a21; //#2c3e50;
-    //font-weight: 700;
+    color: #121a21; /*#2c3e50;
+    //font-weight: 700; */
 }
 
 #portfolio a,
@@ -188,7 +188,7 @@ header .intro-text .skills {
 
 .navbar-default,
 .navbar-inverse {
-    //background-color: #AD4429;
+    /*background-color: #AD4429;*/
     border: 0;
 }
 
@@ -241,7 +241,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(226, 90, 57, 0.9); //#e25a39f2;
+    background: rgba(226, 90, 57, 0.9); /* #e25a39f2; */
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
