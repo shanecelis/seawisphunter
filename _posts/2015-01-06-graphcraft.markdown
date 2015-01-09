@@ -8,7 +8,7 @@ description: "GraphCraft will be available in the Unity3D Asset Store soon. More
 name: "GraphCraft"
 video-id: "b7MYfArhqr0"
 ---
-Currently pending approval on the Unity Asset Store.
+GraphCraft is available on the [Unity Asset Store](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o).
 
 * * *
 
@@ -17,13 +17,15 @@ just 30 seconds of action. Please see the
 [GraphCraft in 30 Seconds](https://www.youtube.com/watch?v=b7MYfArhqr0)
 video.
 
-GraphCraft is a Unity3D asset that uses graphs---constituted by vertices
-and edges---to construct recursively-describable bodies.  This is a
-hybrid approach between procedural generation and manual creation.
-The graphs are created manually then used to automatically construct a
-new procedurally generated object according to simple rules.  Unity3D
-developers can design symmetric multi-segmented composable bodies using
-the familiar Unity3D Editor tools.  The Graph Preview shows what
+GraphCraft is a
+[Unity](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o)
+asset that uses graphs---constituted by vertices and edges---to
+construct recursively-describable bodies.  This is a hybrid approach
+between procedural generation and manual creation.  The graphs are
+created manually then used to automatically construct a new
+procedurally generated object according to simple rules.  Unity
+developers can design symmetric multi-segmented composable bodies
+using the familiar Unity Editor tools.  The Graph Preview shows what
 effects one's edits have in real-time.  The Graph Constructor
 instantiates the game objects according to the graph.
 
@@ -56,7 +58,7 @@ Usage
 
 GraphCraft exposes a set of tools under the menu
 `Components->GraphCraft` that enables you to create graphs---that is
-vertices and edges---in the Unity3D Editor.  To create a "Snake" from the `Example Scene` for example, one would do the following:
+vertices and edges---in the Unity Editor.  To create a "Snake" from the `Example Scene` for example, one would do the following:
 
 1. Create a cube.
 2. Select the cube.
