@@ -18,8 +18,8 @@ just 30 seconds of action. Please see the
 video.
 
 GraphCraft is a
-[Unity](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o)
-asset that uses graphs---constituted by vertices and edges---to
+[Unity asset](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o)
+that uses graphs---constituted by vertices and edges---to
 construct recursively-describable bodies.  This is a hybrid approach
 between procedural generation and manual creation.  The graphs are
 created manually then used to automatically construct a new
@@ -34,7 +34,7 @@ Examples
 
 There are three examples:
 
-1. The `Example Scene` shows progressively more complex graphs and
+1. <a href="/img/graphcraft-example.png"><img src="/img/graphcraft-example.png" style="float:right;" width="250px"></a>The `Example Scene` shows progressively more complex graphs and
    their results.  a) The "Snake" shows a graph with one vertex and
    one edge that connects back to itself.  b) The "Tree" shows a graph
    with one vertex and two self-edges; the vertex also is a rigid body
@@ -45,11 +45,11 @@ There are three examples:
    humanoid has 3 vertices and 7 edges and shows how one complete
    design may be easily replicated into a "family" of different sizes.
 
-2. The `Centipede Example` scene is the result of an introduction and
+2. <a href="/img/graphcraft-centipede-example.png"><img src="/img/graphcraft-centipede-example.png" style="float:right;" width="200px"></a>The `Centipede Example` scene is the result of an introduction and
    tutorial video to GraphCraft made for
-   [Mockup Monday #34](http://seawisphunter.com/mockup%20monday/2015/01/05/mockup-monday-34-graphcraft-for-unity3d/).
+   [Mockup Monday #34](http://seawisphunter.com/mockup%20monday/2015/01/05/mockup-monday-34-graphcraft-for-unity3d/).<br><br><br><br><br><br>
 
-3. The `30 Seconds Example` scene is the resulting scene used in the
+3. <a href="/img/graphcraft-30-seconds-example.png"><img src="/img/graphcraft-30-seconds-example.png" style="float:right;" width="200px"></a>The `30 Seconds Example` scene is the resulting scene used in the
    video
    [GraphCraft in 30 Seconds](https://www.youtube.com/watch?v=b7MYfArhqr0).
 
