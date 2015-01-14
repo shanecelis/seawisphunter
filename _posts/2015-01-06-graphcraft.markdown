@@ -53,6 +53,18 @@ There are three examples:
    video
    [GraphCraft in 30 Seconds](https://www.youtube.com/watch?v=b7MYfArhqr0).
 
+Other Uses
+----------
+
+You can use GraphCraft to build lots of things: trees, quadrupeds,
+fish, snakes, broccoli, flowers, buildings---anything that has a
+recursive or fractal, reuse-of-parts at differing scales is admissible
+and many animals and plants do.  My foremost interest in GraphCraft is
+to use it for is building interesting robot bodies, so it's a robot
+construction kit for me, but it's just as capable as a flower
+generator for someone else and an architecture motif explorer for yet
+another person.
+
 Usage
 -----
 
@@ -68,7 +80,7 @@ vertices and edges---in the Unity Editor.  To create a "Snake" from the `Example
 6. Select the edge and scale, rotate, or translate it to one's liking.
 7. Adjust the edge's count so that multiple segments of the snake will
 be created.
-8. Add a constructor by selecting the menu item `Components->GraphCraft->Construct Graph`.
+8. Add a constructor by selecting the menu item `Components->GraphCraft->Construct Graph`.  Hit play to construct.
 
 Please see
 [Mockup Monday #34](http://seawisphunter.com/mockup%20monday/2015/01/05/mockup-monday-34-graphcraft-for-unity3d/)
