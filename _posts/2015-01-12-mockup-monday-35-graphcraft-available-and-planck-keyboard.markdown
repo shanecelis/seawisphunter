@@ -27,13 +27,16 @@ getting to write the firmware!  This allows you to make up your own
 layout without any restrictions or limitations.  Here are a
 [few layouts](https://github.com/pcarrier/planck) for the Planck
 keyboard.  I made
-[my own layout](https://gist.github.com/shanecelis/ba44ce4b21b62aeeb018)
-(this doesn't include the space-bar keyboard swap; that'll come soon
-and I'll add a link here).  I have been experiencing a little analysis
-paralysis having the freedom to change the keyboard layout. Little
-annoyances leave me considering, "What if I changed to layout to fix
-that? But that would make this part more annoying...."  With great
-freedom comes great urges to use that freedom.
+[my own layout](https://gist.github.com/shanecelis/ba44ce4b21b62aeeb018).
+The space-bar keyboard swap code is available on my
+[tmk_keyboard](https://github.com/shanecelis/tmk_keyboard/tree/master/keyboard/planck)
+fork on github.  I also cleaned up the codebase so it doesn't rely on
+gh60 anymore.  It has its own directory since it's its own keyboard.
+I have been experiencing a little analysis paralysis having the
+freedom to change the keyboard layout. Little annoyances leave me
+considering, "What if I changed to layout to fix that? But that would
+make this part more annoying...."  With great freedom comes great
+urges to use that freedom.
 
 So I released something virtual! And I made something physical! Shane
 does it all now!
