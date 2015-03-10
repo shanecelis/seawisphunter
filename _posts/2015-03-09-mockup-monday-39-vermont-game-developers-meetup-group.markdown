@@ -8,7 +8,7 @@ description: "Looking for group"
 name: "Mockup Monday #39: Vermont Game Developers Meetup Group"
 video-id: "cGSxpLe7qC4"
 ---
-I met with the [Vermont Game Community: Game Design
+I met with the [Vermont Gaming Community: Game Design
 Group](https://www.facebook.com/groups/1408039082775192/) last week.
 Great group!  They shared prototypes of card games, board games, dice
 games and other table top games they were all personally working on.
