@@ -3,7 +3,7 @@ published: true
 layout: video-post
 date: 2015-03-28T02:54:52.000Z
 img: img/youtube/2015-03-28-avEVj3BNGGs.jpg
-category: Mockup Monday
+category: VTGD
 description: "First Vermont Game Developers meetup!"
 name: "Vermont Game Developers #1: Introduction and Mini Arcade Cabinet"
 video-id: "avEVj3BNGGs"
