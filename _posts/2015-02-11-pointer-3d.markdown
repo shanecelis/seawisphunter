@@ -5,11 +5,11 @@ date: 2015-02-02T20:18:31.000Z
 img: img/youtube/2015-02-02--1JDMMQPORw.jpg
 category: product
 description: "\"No, this hover hand is cool, I swear!\""
-name: "Pointer 3D"
+name: "Custom Pointer"
 video-id: "-1JDMMQPORw"
 ---
 
-Pointer 3D will be available on the Unity Asset Store soon.
+Custom Pointer is available on the [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/43318).
 
 * * *
 
