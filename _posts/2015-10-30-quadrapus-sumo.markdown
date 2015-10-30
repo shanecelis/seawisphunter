@@ -1,12 +1,14 @@
 ---
-published: false
-layout: video-post
-date: 2015-02-09T18:28:04.000Z
+published: true
+layout: redirected
+date: 2015-10-30T18:28:04.000Z
 img: img/youtube/2015-02-09-XVV87gLDSD8.jpg
 category: product
 description: "Show and Tell in NY for me and my game. Yay!"
 name: "Quadrapus Sumo"
 video-id: "XVV87gLDSD8"
+sitemap: false
+redirect_to: http://quadrapussumo.com
 ---
 
 Control your red four-legged friend with your hand using the
