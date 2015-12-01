@@ -9,7 +9,7 @@ description:
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm interested in simulating buoyancy for a game idea I'm exploring.  I didn't expect implementing buoyancy to be difficult since the physics is easy to describe and I'm limiting myself to [cuboids](https://en.wikipedia.org/wiki/Cuboid), rectangles in 3D.  But it led to a math problem that took me some time to crack.  Rather than solve and forget, I thought I'd document it as a guide for other game developers who may want to do something similar.
+I'm interested in simulating buoyancy for a game idea I'm exploring.  I didn't expect implementing buoyancy to be difficult since the physics is easy to describe and I'm limiting myself to [cuboids](https://en.wikipedia.org/wiki/Cuboid), rectangles in 3D.  But it led to a math problem that took me some time to crack.  Rather than solve and forget, I thought I'd document it as a guide for other game developers who may want to do something similar.  There will be a lot of math, but fear not: there's a [kitty](#kitty) at the end!
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">More gnashing of teeth went into this, added dynamic water level and buoyancy. <a href="https://twitter.com/hashtag/unity3d?src=hash">#unity3d</a> <a href="https://twitter.com/hashtag/shaders?src=hash">#shaders</a> <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://twitter.com/hashtag/indiedev?src=hash">#indiedev</a> <a href="https://t.co/75vWDfps5B">pic.twitter.com/75vWDfps5B</a></p>&mdash; Shane Celis (@shanecelis) <a href="https://twitter.com/shanecelis/status/667414913367851013">November 19, 2015</a></blockquote>
 
@@ -67,7 +67,7 @@ We can make this problem easier in a couple ways.
 
 With that, I hope I have provided the motivation for why we're interested in finding the volume of a unit cube below a plane: Because video games.  Although cuboids aren't the most exciting shape, they're often a good approximation for many shapes.  We've done the physics.  We've made our approximations and assumptions.  We only have the math left to do.
 
-# Volume of Unit Cube Below Plane
+# Problem: Volume of Unit Cube Below Plane
 
 Determine the volume of a unit cube below a plane with normal $n = (a,b,c)$ and a point $p_0 = (x_0, y_0, z_0)$ where $d = n \cdot p_0$. The unit cube is situated with one corner at the origin $(0,0,0)$ and the other at $(1,1,1)$.
 
@@ -197,11 +197,13 @@ Thanks for reading.  Let me know if I've made any glaring errors. If you're inte
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" lang="en"><p lang="en" dir="ltr">General case for any normal. Here n = (3,4,1)&#10;&#10;Now to find the centroid of volume. <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://t.co/UJjOAfc0Lt">pic.twitter.com/UJjOAfc0Lt</a></p>&mdash; Shane Celis (@shanecelis) <a href="https://twitter.com/shanecelis/status/669624732933730304">November 25, 2015</a></blockquote>
 
-<img style="float:right" src="/img/cute-cat.jpg">
+
+<a name="kitty"></a>
 ## Here's a Cute Cat
 
 Congratulations! You made it through this whole post.  I know it was math heavy.  You deserve a cute kitty!
 
+<img class="center-block" src="/img/cute-cat.jpg">
 <a name="code"></a>
 # Appendix: Code
 
