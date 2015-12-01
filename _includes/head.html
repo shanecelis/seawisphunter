@@ -4,7 +4,24 @@
     <title>{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+    <!-- Open Graph facebook properties -->
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:image" content="{{ page.img | prepend: site.baseurl }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:updated_time" content="">
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+
+    <!-- Twitter properties -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ site.twitter }}">
+    <meta name="twitter:creator" content="{{ site.twitter }}">
+    <meta name="twitter:title" content="{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ page.img | prepend: site.baseurl }}">
 
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -13,7 +30,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "css/highlight.css" | prepend: site.baseurl }}">
-    <link rel="image_src" href=" {{ page.img | prepend: site.baseurl }}">
+    <link rel="image_src" href="{{ page.img | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="{{ "css/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
