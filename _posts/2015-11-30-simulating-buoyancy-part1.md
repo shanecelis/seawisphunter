@@ -9,7 +9,7 @@ description:
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm interested in simulating buoyancy for a game idea I'm exploring.  I didn't expect implementing buoyancy to be difficult since the physics is easy to describe and I'm limiting myself to [cuboid shapes](https://en.wikipedia.org/wiki/Cuboid).  But it led to a math problem that took me some time to crack.  Rather than solve and forget, I thought I'd document it as a guide for other game developers who may want to do something similar.
+I'm interested in simulating buoyancy for a game idea I'm exploring.  I didn't expect implementing buoyancy to be difficult since the physics is easy to describe and I'm limiting myself to [cuboids](https://en.wikipedia.org/wiki/Cuboid).  Cuboids are a good approximation for many shapes.  But it led to a math problem that took me some time to crack.  Rather than solve and forget, I thought I'd document it as a guide for other game developers who may want to do something similar.
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">More gnashing of teeth went into this, added dynamic water level and buoyancy. <a href="https://twitter.com/hashtag/unity3d?src=hash">#unity3d</a> <a href="https://twitter.com/hashtag/shaders?src=hash">#shaders</a> <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://twitter.com/hashtag/indiedev?src=hash">#indiedev</a> <a href="https://t.co/75vWDfps5B">pic.twitter.com/75vWDfps5B</a></p>&mdash; Shane Celis (@shanecelis) <a href="https://twitter.com/shanecelis/status/667414913367851013">November 19, 2015</a></blockquote>
 
