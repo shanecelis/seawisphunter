@@ -5,7 +5,7 @@ date: 2015-11-24T17:17:10EST
 name: "Simulating Buoyancy: Part\u00A01"
 category: blog
 img: "img/buoyancy-part-1.png"
-description:
+description: Learn how to simulate buoyancy in video games.
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
