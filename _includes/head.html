@@ -21,7 +21,7 @@
     <meta name="twitter:creator" content="{{ site.twitter }}">
     <meta name="twitter:title" content="{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{{ page.img | prepend: site.baseurl }}">
+    <meta name="twitter:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}">
 
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
