@@ -9,7 +9,7 @@
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:image" content="{{ page.img | prepend: site.baseurl }}">
+    <meta property="og:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:updated_time" content="">
     <meta property="fb:admins" content="743717857" />
