@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2015-11-24T17:17:10EST
 name: "Simulating Buoyancy: Part\u00A01"
-category:
+category: blog
 img: "img/buoyancy-part-1.png"
 description:
 ---
@@ -163,7 +163,7 @@ When $d > 2$ the tetrahedrons that we're subtracting start to overlap, but we're
 
 With those couple tricks to correct our initial solution we've solved our problem conceptually.  There are a few fiddly things left to do like determining when our corrections are necessary.
 
-For instance, when do we have to subtract for the $x$ axis?  When $x > 1$ for $y = z = 0$, we've got a correction to make.  We go back to the plane equation plug in $x,y$ and solve for $x$ then use the [Heaviside step ](https://en.wikipedia.org/wiki/Heaviside_step_function) $H(x)$ to only subtract the correction only when necessary.  We do likewise for our over counting correction.
+For instance, when do we have to subtract for the $x$ axis?  When $x > 1$ and $y = z = 0$, we've got a correction to make.  We go back to the plane equation plug in $x,y = 0$ and solve for $x = d/a$ then use the [Heaviside step or unit step function](https://en.wikipedia.org/wiki/Heaviside_step_function) $H(x)$ to only subtract the correction only when necessary.  We do likewise for our over counting correction.
 
 ## Solution
 
@@ -175,11 +175,12 @@ $$
 V_1(n, p_0) &= \frac{d^3}{6 a b c} \\\\\\
 V &= V_1(n, p_0) \\\\\\
 &- \sum_{i = 1}^3 H(d/n_i + 1) V_1(n, p_0 - e_i) \\\\\\
-&+ \sum_{i = 1}^3 H((d - n_i)/n_{i + 1} - 1) V_1(n, p_0 - (e_i + e_{i + 1})
+&+ \sum_{i = 1}^3 H((d - n_i)/n_{i + 1} - 1) V_1(n, p_0 - (e_i + e_{i + 1}) \\\\\\
+H(x) &= \begin{cases} 0 & x < 0 \\\\\\ 1 & x \geq 0 \end{cases}
 \end{align}
 $$
 
-This resolves our problem for determining the volume of a unit cube under a plane.  A few transformations are needed to make it work for a cuboid of any dimensions.  A few details are left out that have to do with covering all the cases.  The code section does handle them.
+This resolves our problem for determining the volume of a unit cube under a plane.  A few transformations are needed to make it work for a cuboid of any dimensions.  A few details are left out that have to do with covering all the cases.  The [code in the appendix](#code) does handle them.
 
 ## Applying this to Buoyancy
 
@@ -201,10 +202,11 @@ Thanks for reading.  Let me know if I've made any glaring errors. If you're inte
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Each equation halves the sales of your book. But each kitty picture doubles sales. So, just put a kitty in every equation and you&#39;re good.</p>&mdash; ¬(socks)∨¬(sandals) (@ZachWeiner) <a href="https://twitter.com/ZachWeiner/status/671136546846867457">November 30, 2015</a></blockquote>
 
-Congratulations for making it through this whole post I know it was math heavy!  You deserve a cute kitty!
+Congratulations! You made it through this whole post.  I know it was math heavy.  You deserve a cute kitty!
 
 <img class="center-block" src="/img/cute-cat.jpg">
 
+<a name="code"></a>
 # Appendix: Code
 
 I solved this problem in Mathematica.  Having math and visualization tools close at hand made the problem easier to work with.
