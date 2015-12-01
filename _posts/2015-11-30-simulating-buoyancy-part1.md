@@ -150,12 +150,11 @@ So now what do we do?  Should we try to redo our integrals and add a more cases?
 
 Luckily we don't have to revisit our integrals.  We can use this insight from [Achille Hui's stackexchange answer](http://math.stackexchange.com/questions/454583/volume-of-cube-section-above-intersection-with-plane) which was extremely helpful in setting up this problem.  Hui solved a special case of this problem where n = (1,1,1).
 
-<img width="200px" style="float:right" src="/img/subtract-off.gif">
+<img width="175px" style="float:right" src="/img/subtract-off.gif">
 
 Hui's trick is to subtract off the parts that aren't our cube. Since those parts are tetrahedrons, we've already derived the basic tools we need.  In fact, you can think of it like we're computing the volume of adjacent cubes translated by $\hat i, \hat j, \hat k$.  This solution is recursive mathematically and programmatically!  So we've got a solution for $1 \le d < 2$.  What about $2 \le d \le 3$?
 
-
-<img class="center-block" src="/img/add-tetrahedrons.png">
+<img width="250px" class="center-block" src="/img/add-tetrahedrons.png">
 
 When $d > 2$ the tetrahedrons that we're subtracting start to overlap, but we're now well equipped to deal with this.  We're double counting those subtractions so we add them back.  You can think of this like we're computing the volume of adjacent cubes translated by $\hat i + \hat j, \hat k + \hat i, \hat j + \hat k$.
 
@@ -192,19 +191,16 @@ So what happens in real life?  The buoyancy force is applied to the centroid of 
 
 <img width="300px" class="center-block" src="/img/centroid-of-volume.png">
 
-This can induce a torque which is why floating objects often seem to wobble.  The derivation is very similar to what we did above with a slight twist.  We've done all the hard work already, but I'll save that derivation for part 2.
+This can induce a torque and will cause the object to rotate into a more natural orientation.  Because the centroid of volume changes, the torque may oscillate; this is why many floating objects often seem to wobble.  The derivation for centroid of volume is very similar to what we did above with a slight twist.  We've done all the hard work already, but I'll save that derivation for part 2.
 
 Thanks for reading.  Let me know if I've made any glaring errors. If you're interested in using this in Unity, ping me on twitter [@shanecelis](http://twitter.com/shanecelis).
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" lang="en"><p lang="en" dir="ltr">General case for any normal. Here n = (3,4,1)&#10;&#10;Now to find the centroid of volume. <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://t.co/UJjOAfc0Lt">pic.twitter.com/UJjOAfc0Lt</a></p>&mdash; Shane Celis (@shanecelis) <a href="https://twitter.com/shanecelis/status/669624732933730304">November 25, 2015</a></blockquote>
 
+<img style="float:right" src="/img/cute-cat.jpg">
 ## Here's a Cute Cat
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Each equation halves the sales of your book. But each kitty picture doubles sales. So, just put a kitty in every equation and you&#39;re good.</p>&mdash; ¬(socks)∨¬(sandals) (@ZachWeiner) <a href="https://twitter.com/ZachWeiner/status/671136546846867457">November 30, 2015</a></blockquote>
-
 Congratulations! You made it through this whole post.  I know it was math heavy.  You deserve a cute kitty!
-
-<img class="center-block" src="/img/cute-cat.jpg">
 
 <a name="code"></a>
 # Appendix: Code
