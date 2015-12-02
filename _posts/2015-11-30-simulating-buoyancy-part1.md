@@ -305,7 +305,7 @@ e[i_] := Module[{l}, l = {0, 0, 0}; l[[i]] = 1; l]
 
 References I found after I wrote this post.  Looks like my googling-fu isn't up to snuff.  I probably searched for "cuboid" instead of "polyhedron".
 
-* [How to Dynamically Slice a Convex Shape](http://gamedevelopment.tutsplus.com/tutorials/how-to-dynamically-slice-a-convex-shape--gamedev-14479) by [Randy Gaul](http://twitter.com/tutsplus)
-* [Buoyancy, Rigid Bodies and Water Surface](http://www.randygaul.net/2014/02/14/buoyancy-rigid-bodies-and-water-surface/) by [Randy Gaul](http://twitter.com/tutsplus)
+* [How to Dynamically Slice a Convex Shape](http://gamedevelopment.tutsplus.com/tutorials/how-to-dynamically-slice-a-convex-shape--gamedev-14479) by [Randy Gaul](https://twitter.com/randypgaul)
+* [Buoyancy, Rigid Bodies and Water Surface](http://www.randygaul.net/2014/02/14/buoyancy-rigid-bodies-and-water-surface/) by [Randy Gaul](https://twitter.com/randypgaul)
   * This work far surpasses mine. Gaul implements buoyancy with a "cloth" water, for polyhedrons, with drag approximations, and even adds splashes!
 * [Water interaction model for boats in video games](http://gamasutra.com/view/news/237528/Water_interaction_model_for_boats_in_video_games.php) by Jacques Kerner
