@@ -191,7 +191,7 @@ So what happens in real life?  The buoyancy force is applied to the centroid of 
 
 <img width="300px" class="center-block" src="/img/centroid-of-volume.png">
 
-This can induce a torque and will cause the object to rotate into a more natural orientation.  Because the centroid of volume changes, the torque may oscillate; this is why many floating objects often seem to wobble.  The derivation for centroid of volume is very similar to what we did above with a slight twist.  We've done all the hard work already, but I'll save that derivation for part 2.
+This can induce a torque and will cause the object to rotate into a more natural orientation.  Because the centroid of volume changes, the torque may oscillate; this is why many floating objects often seem to wobble.  The derivation for centroid of volume is very similar to what we did above with a slight twist.  We've done all the hard work already, but I'll save that derivation for part 2.  See the [code](#code) or [references](#references) 'till then.
 
 Thanks for reading.  Let me know if I've made any glaring errors. If you're interested in using this in Unity, ping me on twitter [@shanecelis](http://twitter.com/shanecelis).
 
@@ -294,3 +294,18 @@ firstQuadrant[n_] := DiagonalMatrix[Sign[n]]
 (* Return the element vector for index i. *)
 e[i_] := Module[{l}, l = {0, 0, 0}; l[[i]] = 1; l]
 ```
+
+<a name="references"></a>
+# References
+
+* [Volume of cube section above intersection with plane](http://math.stackexchange.com/questions/454583/volume-of-cube-section-above-intersection-with-plane) with answer by [Achille Hui](http://math.stackexchange.com/users/59379/achille-hui)
+* [Buoyancy](https://en.wikipedia.org/wiki/Buoyancy) from wikipedia
+
+### Posthoc References
+
+References I found after I wrote this post.  Looks like my googling-fu isn't up to snuff.  I probably searched for "cuboid" instead of "polyhedron".
+
+* [How to Dynamically Slice a Convex Shape](http://gamedevelopment.tutsplus.com/tutorials/how-to-dynamically-slice-a-convex-shape--gamedev-14479) by [Randy Gaul](http://twitter.com/tutsplus)
+* [Buoyancy, Rigid Bodies and Water Surface](http://www.randygaul.net/2014/02/14/buoyancy-rigid-bodies-and-water-surface/) by [Randy Gaul](http://twitter.com/tutsplus)
+  * This work far surpasses mine. Gaul implements buoyancy with a "cloth" water, for polyhedrons, with drag approximations, and even adds splashes!
+* [Water interaction model for boats in video games](http://gamasutra.com/view/news/237528/Water_interaction_model_for_boats_in_video_games.php) by Jacques Kerner

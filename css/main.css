@@ -207,11 +207,13 @@ section {
 section h2 {
     margin: 0;
     font-size: 2.5em;
+    padding-top: 0.4em;
 }
 
 section h1 {
     margin: 0;
     font-size: 3em;
+    padding-top: 0.5em;
 }
 
 section.success {
@@ -504,6 +506,16 @@ footer .footer-below {
     padding: 20px;
     margin: 20px 0;
     border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+
+.bs-callout-mini {
+    float: right! important;
+    padding: 10px;
+    margin: 10px 0px;
+    border: 1px solid #eee;
+    max-width: 50%;
     border-left-width: 5px;
     border-radius: 3px;
 }
