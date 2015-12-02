@@ -21,6 +21,7 @@
     {% if page.video-id %}
     <meta name="twitter:card" content="player">
     <meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.video-id }}">
+    <meta property="og:video" content="https://www.youtube.com/embed/{{ page.video-id }}">
     <meta name="twitter:player:stream" content="https://www.youtube.com/embed/{{ page.video-id }}">
     <meta name="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;">
     <meta name="twitter:player:width" content="350">
@@ -33,7 +34,6 @@
     <meta name="twitter:title" content="{% if page.name %}{{ page.name }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}">
-
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | prepend: site.baseurl }}">
