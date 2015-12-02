@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2015-11-24T17:17:10EST
+date: 2015-11-30T17:17:10EST
 name: "Simulating Buoyancy: Part\u00A01"
 category: blog
 img: "img/buoyancy-part-1.png"
