@@ -301,7 +301,7 @@ e[i_] := Module[{l}, l = {0, 0, 0}; l[[i]] = 1; l]
 * [Volume of cube section above intersection with plane](http://math.stackexchange.com/questions/454583/volume-of-cube-section-above-intersection-with-plane) with answer by [Achille Hui](http://math.stackexchange.com/users/59379/achille-hui)
 * [Buoyancy](https://en.wikipedia.org/wiki/Buoyancy) from wikipedia
 
-### Posthoc References
+### Post hoc References
 
 References I found after I wrote this post.  Looks like my googling-fu isn't up to snuff.  I probably searched for "cuboid" instead of "polyhedron".
 
