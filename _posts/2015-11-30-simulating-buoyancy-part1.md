@@ -15,7 +15,7 @@ I'm interested in simulating buoyancy for a game idea I'm exploring.  I didn't e
 
 ## The Physics
 
-<img width="250px" style="float:right" src="/img/under-water.png">
+<img class="img-responsive pull-right" style="max-width:40%" src="/img/under-water.png">
 
 Our situation is this, we have an object submerged in a fluid which exerts an upward force, the buoyant force $F_b$.  The physics is easy describe mathematically.
 
@@ -203,7 +203,7 @@ Thanks for reading.  Let me know if I've made any glaring errors. If you're inte
 
 Congratulations! You made it through this whole post.  I know it was math heavy.  You deserve a cute kitty!
 
-<img class="center-block" src="/img/cute-cat.jpg">
+<img class="center-block img-rounded" src="/img/cute-cat.jpg">
 <a class="anchor" name="code"></a>
 # Appendix: Code
 
