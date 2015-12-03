@@ -140,7 +140,7 @@ We've done our integration.  We're feeling proud of ourselves but there's a snag
 
 <img class="center-block" width="500px" src="/img/want-got.gif">
 
-If you watch the animation above where $n = (1,1,1)$, there's a time where we what we want is what we got.  It works for $0 \le d < 1$, but for $d \ge 1$ the shape of the plane cut ceases to be a triangle and becomes a hexagon.
+If you watch the animation above where $n = (1,1,1)$, there's a time where what we want is what we got.  It works for $0 \le d < 1$, but for $d \ge 1$ the shape of the plane cut ceases to be a triangle and becomes a hexagon.
 
 <img class="center-block" width="500px" src="/img/hexagon.png">
 
