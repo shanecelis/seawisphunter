@@ -568,3 +568,11 @@ footer .footer-below {
 .bs-callout-info h4 {
     color: #5bc0de;
 }
+
+.anchor:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -75px; 
+  height: 75px; 
+  visibility: hidden; 
+}

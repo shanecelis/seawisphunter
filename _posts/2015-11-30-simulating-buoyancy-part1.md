@@ -198,13 +198,13 @@ Thanks for reading.  Let me know if I've made any glaring errors. If you're inte
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" lang="en"><p lang="en" dir="ltr">General case for any normal. Here n = (3,4,1)&#10;&#10;Now to find the centroid of volume. <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://twitter.com/hashtag/math?src=hash">#math</a> <a href="https://t.co/UJjOAfc0Lt">pic.twitter.com/UJjOAfc0Lt</a></p>&mdash; Shane Celis (@shanecelis) <a href="https://twitter.com/shanecelis/status/669624732933730304">November 25, 2015</a></blockquote>
 
 
-<a name="kitty"></a>
+<a class="anchor" name="kitty"></a>
 ## Here's a Cute Cat
 
 Congratulations! You made it through this whole post.  I know it was math heavy.  You deserve a cute kitty!
 
 <img class="center-block" src="/img/cute-cat.jpg">
-<a name="code"></a>
+<a class="anchor" name="code"></a>
 # Appendix: Code
 
 I solved this problem in Mathematica.  Having math and visualization tools close at hand made the problem easier to work with.
@@ -295,7 +295,7 @@ firstQuadrant[n_] := DiagonalMatrix[Sign[n]]
 e[i_] := Module[{l}, l = {0, 0, 0}; l[[i]] = 1; l]
 ```
 
-<a name="references"></a>
+<a class="anchor" name="references"></a>
 # References
 
 * [Volume of cube section above intersection with plane](http://math.stackexchange.com/questions/454583/volume-of-cube-section-above-intersection-with-plane) with answer by [Achille Hui](http://math.stackexchange.com/users/59379/achille-hui)
