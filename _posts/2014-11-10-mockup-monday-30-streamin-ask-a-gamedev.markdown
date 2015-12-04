@@ -5,7 +5,7 @@ date: 2014-11-10T19:44:22.000Z
 img: img/youtube/2014-11-10-_ElKwTV5bxk.jpg
 category: Mockup Monday
 description: "I will punt so many questions."
-name: "Mockup Monday #30: Streamin', Ask a #Gamedev"
+title: "Mockup Monday #30: Streamin', Ask a #Gamedev"
 video-id: "_ElKwTV5bxk"
 ---
 

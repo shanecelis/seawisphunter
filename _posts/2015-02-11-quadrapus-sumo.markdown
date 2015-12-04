@@ -5,7 +5,7 @@ date: 2015-02-09T18:28:04.000Z
 img: img/youtube/2015-02-09-XVV87gLDSD8.jpg
 category: product
 description: "Show and Tell in NY for me and my game. Yay!"
-name: "Quadrapus Sumo"
+title: "Quadrapus Sumo"
 video-id: "XVV87gLDSD8"
 ---
 

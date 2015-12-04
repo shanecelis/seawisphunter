@@ -5,7 +5,7 @@ date: 2015-02-16T23:13:58.000Z
 img: img/youtube/2015-02-16-x4vq3mbnPPg.jpg
 category: Mockup Monday
 description: "I can haz indie nao?"
-name: "Mockup Monday #38: Post IndieCade East 2015"
+title: "Mockup Monday #38: Post IndieCade East 2015"
 video-id: "x4vq3mbnPPg"
 ---
 

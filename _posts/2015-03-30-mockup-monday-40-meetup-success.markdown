@@ -5,7 +5,7 @@ date: 2015-03-30T19:12:49.000Z
 img: img/youtube/2015-03-30-HgL6jouR9dk.jpg
 category: Mockup Monday
 description: "Meet ALL THE PEOPLE!"
-name: "Mockup Monday #40: Meetup Success!"
+title: "Mockup Monday #40: Meetup Success!"
 video-id: "HgL6jouR9dk"
 ---
 

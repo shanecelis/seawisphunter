@@ -5,7 +5,7 @@ date: 2015-02-02T20:18:31.000Z
 img: img/youtube/2015-02-02--1JDMMQPORw.jpg
 category: Mockup Monday
 description: "\"No, this hover hand is cool, I swear!\""
-name: "Mockup Monday #36: Leap Motion Cursor for Unity's New UI"
+title: "Mockup Monday #36: Leap Motion Cursor for Unity's New UI"
 video-id: "-1JDMMQPORw"
 ---
 

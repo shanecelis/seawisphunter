@@ -5,7 +5,7 @@ date: 2015-01-05T21:52:51.000Z
 img: img/youtube/2015-01-05-kRClIOwMG_g.jpg
 category: Mockup Monday
 description: "It's not too late, to Graph it / Graph it Good!"
-name: "Mockup Monday #34: GraphCraft for Unity3D"
+title: "Mockup Monday #34: GraphCraft for Unity3D"
 video-id: "kRClIOwMG_g"
 ---
 

@@ -5,7 +5,7 @@ date: 2014-02-13T15:54:17.000Z
 img: img/youtube/2014-02-13-ufR8NnbXihs.jpg
 category: Mockup Monday
 description: Blah
-name: "JARS"
+title: "JARS"
 video-id: "ufR8NnbXihs"
 ---
 "You yell quadrapus, and we got a panic on our hands on the Fourth of July." #gamedev #indiedev #quadrapus

@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: 2015-11-24T17:17:10EST
-name: "Simulating Buoyancy: Part\u00A01"
+title: "Simulating Buoyancy: Part\u00A01"
 category: blog
 img: "img/buoyancy-part-1.png"
 description: Learn how to simulate buoyancy in video games.

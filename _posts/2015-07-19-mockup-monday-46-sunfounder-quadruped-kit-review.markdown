@@ -5,7 +5,7 @@ date: 2015-07-19T22:38:13.000Z
 img: img/youtube/2015-07-19-wJBmK_GoBTw.jpg
 category: Mockup Monday
 description: "A real live quadruped!"
-name: "Mockup Monday #46: Sunfounder Quadruped Kit Review"
+title: "Mockup Monday #46: Sunfounder Quadruped Kit Review"
 video-id: "wJBmK_GoBTw"
 ---
 In this Mockup Monday, I review the [Sunfounder Crawling Quadruped Robot Kit for Arduino](http://www.sunfounder.com/index.php?c=blogcs&a=details&id=46&memberid=1).  I'm not affiliated with Sunfounder.  This review is my personal opinion.

@@ -5,7 +5,7 @@ date: 2015-01-06T20:29:28.000Z
 img: img/youtube/2015-01-06-UzL-bzD-J1w.jpg
 category: Product
 description: "GraphCraft will be available in the Unity3D Asset Store soon. More info and a longer video available here: http://seawisphunter.com/mockup%20monday/2015/01/05/mockup-monday-34-graphcraft-for-unity3d/"
-name: "GraphCraft"
+title: "GraphCraft"
 video-id: "b7MYfArhqr0"
 ---
 GraphCraft is available on the [Unity Asset Store](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o).

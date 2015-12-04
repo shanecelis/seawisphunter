@@ -5,7 +5,7 @@ date: 2015-03-09T20:44:58.000Z
 img: img/youtube/2015-03-09-cGSxpLe7qC4.jpg
 category: Mockup Monday
 description: "Looking for group"
-name: "Mockup Monday #39: Vermont Game Developers Meetup Group"
+title: "Mockup Monday #39: Vermont Game Developers Meetup Group"
 video-id: "cGSxpLe7qC4"
 ---
 I met with the [Vermont Gaming Community: Game Design

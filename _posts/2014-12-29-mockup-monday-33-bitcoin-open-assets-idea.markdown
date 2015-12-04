@@ -5,7 +5,7 @@ date: 2014-12-29T21:59:07.000Z
 img: img/youtube/2014-12-29-XtDbJnZkxok.jpg
 category: Mockup Monday
 description: "First they came for my money, and I said nothing. Then they came for my assets, and I transferred them. Then they came for my doge, and I said, \"Such avarice. Wow.\""
-name: "Mockup Monday #33: Bitcoin Open Assets Idea"
+title: "Mockup Monday #33: Bitcoin Open Assets Idea"
 video-id: "XtDbJnZkxok"
 ---
 I had an idea for applying the Bitcoin Open Assets to create

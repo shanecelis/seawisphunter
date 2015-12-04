@@ -5,7 +5,7 @@ date: 2014-11-17T19:54:35.000Z
 img: img/youtube/2014-11-17-wjc_OzCeEgU.jpg
 category: Mockup Monday
 description: "Banana for Your Thoughts and Compliance http://www.twitch.tv/shanecelis/profile"
-name: "Mockup Monday #31: Banana Driven Locomotion"
+title: "Mockup Monday #31: Banana Driven Locomotion"
 video-id: "wjc_OzCeEgU"
 ---
 

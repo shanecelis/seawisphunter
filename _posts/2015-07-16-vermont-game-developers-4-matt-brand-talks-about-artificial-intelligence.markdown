@@ -5,7 +5,7 @@ date: 2015-07-16T18:26:28.000Z
 img: img/youtube/2015-07-16-IPno-LCeZaA.jpg
 category: vtgd
 description: "This video is about VTGD4"
-name: "Vermont Game Developers #4: Matt Brand talks about Artificial Intelligence"
+title: "Vermont Game Developers #4: Matt Brand talks about Artificial Intelligence"
 video-id: "IPno-LCeZaA"
 ---
 

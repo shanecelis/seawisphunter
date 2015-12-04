@@ -5,7 +5,7 @@ date: 2015-04-08T01:00:16.000Z
 img: img/youtube/2015-04-08-a5iFepLmVjA.jpg
 category: Mockup Monday
 description: "I gave this talk on April 4th, 2015."
-name: "Maine Game Developers: Leap Motion, An Idea, and Scrap Station Sigma"
+title: "Maine Game Developers: Leap Motion, An Idea, and Scrap Station Sigma"
 video-id: "a5iFepLmVjA"
 ---
 [Seth Pillsbury](https://twitter.com/foundtimegames) invited me to give a talk to the [Maine Game Developers](https://www.facebook.com/groups/280405972107121/) group.  I gave a talk on two topics: Leap Motion with a technical and market overview, an idea I had for using mini arcade cabinets for local game developers.  [Sleepy Lizard Games](https://twitter.com/SleepyLizardGam) gave a demo of his game [Scrap Station Sigma](http://www.sleepylizardgames.com/wp/); his game is on [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=377660877).

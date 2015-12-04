@@ -5,7 +5,7 @@ date: 2015-02-09T18:28:04.000Z
 img: img/youtube/2015-02-09-XVV87gLDSD8.jpg
 category: Mockup Monday
 description: "Show and Tell in NY for me and my game. Yay!"
-name: "Mockup Monday #37: Sounds like Indiecade East"
+title: "Mockup Monday #37: Sounds like Indiecade East"
 video-id: "XVV87gLDSD8"
 ---
 I'm attending [Indiecade East](http://www.indiecade.com/east_2015/)

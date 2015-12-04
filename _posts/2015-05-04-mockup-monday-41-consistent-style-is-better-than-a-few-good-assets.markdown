@@ -5,7 +5,7 @@ date: 2015-05-04T19:50:06.000Z
 img: img/youtube/2015-05-04-ByF8jasnJhU.jpg
 category: Mockup Monday
 description: "I just want it to suck consistently."
-name: "Mockup Monday #41: Consistent Style Is Better Than A Few Good Assets"
+title: "Mockup Monday #41: Consistent Style Is Better Than A Few Good Assets"
 video-id: "ByF8jasnJhU"
 ---
 I've been trying to normalize [Quadrapus Sumo](http://seawisphunter.com/product/2015/02/09/quadrapus-sumo/)'s art style, trying to make it consistent.  I'm a fan of low-poly art, and the sumo characters themselves are made of blocks, so I decided I would try to eradicate all curves from the game's presentation as my first consistency rule.  This was not easy because a couple of cases I felt like I was degrading individual assets, and perhaps I was.

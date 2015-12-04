@@ -5,7 +5,7 @@ date: 2015-02-02T20:18:31.000Z
 img: img/youtube/2015-02-02--1JDMMQPORw.jpg
 category: product
 description: "\"No, this hover hand is cool, I swear!\""
-name: "Custom Pointer"
+title: "Custom Pointer"
 video-id: "-1JDMMQPORw"
 ---
 
