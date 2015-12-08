@@ -7,12 +7,18 @@
 
     <!-- Open Graph facebook properties -->
     <meta property="fb:admins" content="743717857">
+    <meta property="fb:app_id" content="902088639887384">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <meta property="og:type" content="website">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:updated_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}">
+    {% if false and page.video-id %}
+    <meta property="og:video" content="https://www.youtube.com/v/{{ page.video-id }}?version=3&autohide=1">
+    <meta property="og:type" content="video">
+    {% else %}
+    <meta property="og:type" content="website">
+    {% endif %}
 
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
@@ -21,7 +27,7 @@
     {% if page.video-id %}
     <meta name="twitter:card" content="player">
     <meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.video-id }}">
-    <meta property="og:video" content="https://www.youtube.com/embed/{{ page.video-id }}">
+
     <meta name="twitter:player:stream" content="https://www.youtube.com/embed/{{ page.video-id }}">
     <meta name="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E1, mp4a.40.2&quot;">
     <meta name="twitter:player:width" content="350">
