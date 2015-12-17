@@ -5,7 +5,7 @@
  */
 
 body {
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 p,
@@ -144,6 +144,8 @@ header .intro-text .skills {
     }
 }
 
+
+
 @media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
@@ -231,7 +233,7 @@ section.success {
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        /* padding: 55px 0;*/
     }
 
     section.first {
@@ -506,7 +508,7 @@ footer .footer-below {
 
 .page-content
 { 
-    padding-top: 65px
+    /*padding-top: 65px*/
 }
 
 /* http://cpratt.co/twitter-bootstrap-callout-css-styles/ */
