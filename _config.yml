@@ -7,6 +7,8 @@ twitter: "@shanecelis"
 github_username:  shanecelis
 baseurl: "/"
 url: "http://seawisphunter.com"
+post_ext: markdown
+post_layout: post
 
 # Build settings
 markdown: redcarpet

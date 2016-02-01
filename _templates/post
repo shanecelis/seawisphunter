@@ -1,0 +1,9 @@
+---
+title: "{{ title }}"
+date: {{ date }}
+img: ""
+description: ""
+category: blog
+layout: {{ layout }}
+published: false
+---

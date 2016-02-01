@@ -10,31 +10,29 @@ video-id: "127uATSoy6E"
 ---
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script type="text/javascript">
-// Let's reset the location, otherwise the anchor tags won't work.
-      // if there's an #anchor-link in the href
-      // and the page hasn't been scrolled.
-
-      var initialPosition = document.documentElement.scrollTop || document.body.scrollTop;
-      setTimeout(function() {
-      if (window.location.href.indexOf("#") != -1
-      && initialPosition == (document.documentElement.scrollTop || document.body.scrollTop)) {
-        console.log("yep");
-        //window.location.href = window.location.href;
-        } else {
-        console.log("nope");
-        }
-        }, 1000);
-
+// Problem: Dynamically rendered tweets can cause anchor links to
+// point at the wrong thing once rendering finishes.  (The tweets'
+// height can change when extra media is pulled in.)
+//
+// Fix: Goto the anchor point again after the tweets have loaded if
+// the link has an anchor tag in it.
+//
+// Example: http://seawisphunter.com/vcc/2015/12/14/vermont-coders-connection-tech-show-and-tell-12112015/#shanecelis
 twttr.events.bind('loaded',
-function(event) {
-  console.log("created " + event.widgets.length + " widget");
-  if (window.location.href.indexOf("#") != -1) {
-    window.location.href = window.location.href;
-  }
-})
+  function(event) {
+    console.log("created " + event.widgets.length + " widget");
+    var index = window.location.href.indexOf("#");
+    if (index != -1) {
+      // We don't want to ever get into a reload loop.  We'll
+      // only ever 'reload' an anchor.
+      window.location.href = window.location.href.slice(index);
+    }
+  });
 </script>
 
 [Zev Averbach](https://twitter.com/zevav) organized this [Tech Show and Tell](http://www.meetup.com/VTCode/events/227164072/) in association with [Vermont Coders Connection](http://www.meetup.com/VTCode/) on December 11th, 2015.  A video was recorded, and I did some incomplete live tweeting.  If someone else has a tweet for the presenters I missed, tag me [@shanecelis](http://twitter.com/shanecelis).  Speaking of which, we need a hashtag for these events. Maybe [#showandtellvt](https://twitter.com/search?q=%23showandtellvt&src=typd)?
+
+[Andrea Suozzo](https://twitter.com/asuozzo) wrote [an article on the Tech Show and Tell](http://www.techjamvt.com/2015/12/vermont-developers-show-their-work-at-burlingtons-generator/) for Vermont Tech Jam.
 
 * * *
 

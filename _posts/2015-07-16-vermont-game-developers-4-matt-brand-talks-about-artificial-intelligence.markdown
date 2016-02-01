@@ -4,7 +4,7 @@ layout: video-post
 date: 2015-07-16T18:26:28.000Z
 img: img/youtube/2015-07-16-IPno-LCeZaA.jpg
 category: vtgd
-description: "This video is about VTGD4"
+description: "For this meetup Matt will go over some basic AI principles and show some insight into how he developed the AI techniques specifically for Pathogen and Dominant Species..."
 title: "Vermont Game Developers #4: Matt Brand talks about Artificial Intelligence"
 video-id: "IPno-LCeZaA"
 ---
