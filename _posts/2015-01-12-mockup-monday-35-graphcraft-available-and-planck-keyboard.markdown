@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "I released something virtual! And I made something physical! Shane does it all now!"
 title: "Mockup Monday #35: GraphCraft Available and Planck Keyboard"
 video-id: "vle_EgrFHSM"
+tags: mockup-monday
 ---
 <a href="/img/graphcraft-example.png"><img src="/img/graphcraft-example.png" style="float:right;" width="300px"></a>I released [GraphCraft](http://seawisphunter.com/product/2015/01/06/graphcraft/) to the [Unity Asset Store](http://u3d.as/content/seawisp-hunter-llc/graph-craft/b1o) this week!  To
 prepare for that, wrote up some docs, and I made a video.  Not like

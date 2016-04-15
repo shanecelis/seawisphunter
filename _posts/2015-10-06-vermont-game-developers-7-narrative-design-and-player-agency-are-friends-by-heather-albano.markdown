@@ -7,6 +7,7 @@ category:
 description: "Heather will be giving a talk on how narrative design and player agency need not always be at odds with each other."
 title: "Vermont Game Developers #7: Narrative Design and Player Agency Are Friends by Heather Albano"
 video-id: "NN7zKPSGfOU"
+tags: vtgd
 ---
 For this meetup our guest speaker will be professional writer and game developer [Heather Albano](http://www.heatheralbano.com/bio). She hails from Boston and is deeply immersed in the world of interactive fiction. Writers interested in the tools and techniques of interactive fiction will not want to miss this!
 

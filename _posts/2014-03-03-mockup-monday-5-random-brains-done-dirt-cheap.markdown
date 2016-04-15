@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #5: Random Brains Done Dirt Cheap"
 video-id: "R5uN9tW4tb0"
+tags: mockup-monday
 ---
 Teaching a quadrapus how to walk, first steps.

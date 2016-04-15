@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #24: Quadrapus Fights at Maker Faire"
 video-id: "V2f-u03qkV0"
+tags: mockup-monday
 ---
 Life's not fair, but at least there's Maker Faire.

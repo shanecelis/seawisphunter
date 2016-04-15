@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "It's not too late, to Graph it / Graph it Good!"
 title: "Mockup Monday #34: GraphCraft for Unity3D"
 video-id: "kRClIOwMG_g"
+tags: mockup-monday
 ---
 
 This Mockup Monday is an introduction and tutorial to GraphCraft, an

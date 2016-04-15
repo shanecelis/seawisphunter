@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "I will punt so many questions."
 title: "Mockup Monday #30: Streamin', Ask a #Gamedev"
 video-id: "_ElKwTV5bxk"
+tags: mockup-monday
 ---
 
 In this Mockup Monday, I discuss how to fix the Quadrapus Sumo

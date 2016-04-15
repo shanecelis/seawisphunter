@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "You're Mr. Pink."
 title: "Mockup Monday #42: New Characters"
 video-id: "4zFrJ6BXpIA"
+tags: mockup-monday
 ---
 This week I focused on refactoring [Quadrapus Sumo](http://seawisphunter.com/product/2015/02/09/quadrapus-sumo/) such that I could easily load new characters.  One problem, I only had two characters that were the exact same except for their color.  So I made some more.
 

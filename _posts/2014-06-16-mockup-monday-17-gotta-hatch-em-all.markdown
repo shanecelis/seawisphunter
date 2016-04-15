@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #17: Gotta Hatch 'Em All"
 video-id: "5kmgaYetiCo"
+tags: mockup-monday
 ---
 My dad woulda hatched 'em better.

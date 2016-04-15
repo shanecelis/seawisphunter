@@ -13,7 +13,16 @@ post_layout: post
 # Build settings
 markdown: redcarpet
 permalink: pretty
-#pygments: true
 highlighter: pygments
 redcarpet:
     extensions: ["no_intra_emphasis", "footnotes", "autolink", "strikethrough", "with_toc_data", "smart", "fenced_code_blocks"]
+collections:
+  products:
+    output: true
+tag_page_layout: tag_page
+tag_page_dir: tags
+gems:
+  - jekyll-redirect-from
+  - redcarpet
+  - jekyll/tagging
+  - jekyll/email-protect

@@ -8,7 +8,7 @@
         <hr class="star-primary">
       </div>
     </div>
-    {% for post in site.categories.product limit: 5 %}
+    {% for post in site.products limit: 5 %}
     {% assign modulo = forloop.index0 | modulo: 3 %}
     {% if modulo == 0 or forloop.first %}
     <div class="row">

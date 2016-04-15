@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Look, Mom, I made something out of real physical matter!"
 title: "Mockup Monday #44: Mini Arcade Cabinet Reveal"
 video-id: "EQ8rLryIKng"
+tags: mockup-monday
 ---
 I built a mini arcade cabinet that I wanted to share for this Mockup Monday.  It comes as a [kit](http://www.retrobuiltgames.com/diy-kits-shop/porta-pi-arcade-wood-kit-9/) offered by Ryan Bates of [RetroBuiltGames.com](http://retrobuiltgames.com).  It was a lot of fun to put together.  It runs old games and ROMs out of the box, but I'd really like to use it as a demo station for my own game.  That's a little tricky though because [Quadrapus Sumo](http://quadrapussumo.com) requires a [Leap Motion](http://leapmotion.com).  So I'm going to attempt to modify it with Ryan's help.
 

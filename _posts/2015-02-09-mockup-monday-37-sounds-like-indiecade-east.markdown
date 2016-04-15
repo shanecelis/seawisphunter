@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Show and Tell in NY for me and my game. Yay!"
 title: "Mockup Monday #37: Sounds like Indiecade East"
 video-id: "XVV87gLDSD8"
+tags: mockup-monday
 ---
 I'm attending [Indiecade East](http://www.indiecade.com/east_2015/)
 this weekend. It's an independent game developer conference in New

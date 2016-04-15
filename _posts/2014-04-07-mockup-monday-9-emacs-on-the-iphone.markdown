@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #9: Emacs on the iPhone"
 video-id: "-2NBTOZnEy8"
+tags: mockup-monday
 ---
 And now for something completely different: How your favorite text editor might work on the iPhone, if I ever finish it. Special thanks to Chris Miles for the unistroke gesture recognizer library and Fabrice Bellard for QEmacs.

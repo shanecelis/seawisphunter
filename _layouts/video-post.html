@@ -49,8 +49,6 @@ function gotoVideo(minutes, seconds) {
           player.seekTo(minutes * 60 + seconds, true);
           window.location.href = "#top";
       }
-
-
   </script>
 
   <body id="page-top" class="index">
@@ -68,14 +66,18 @@ function gotoVideo(minutes, seconds) {
             <h2>{{ page.title }}</h2>
             <hr class="star-primary">
           </div>
+
           <div class="row">
             <div class="col-lg-8 col-lg-offset-2 blog-main wrap">
               {{ content }}
             </div>
           </div>
+          {% include byline.html page=page %}
         </div>
       </section>
     </div>
+    {% include notifyme.html %}
+
     {% include footer.html %}
     {% include js.html %}
 

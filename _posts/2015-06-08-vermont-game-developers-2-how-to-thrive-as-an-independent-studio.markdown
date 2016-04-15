@@ -7,6 +7,7 @@ category: vtgd
 description: "Marguerite Dibble talks through the adventure of starting and independent studio from the ground up."
 title: "Vermont Game Developers #2: How to Thrive as an Independent Studio"
 video-id: "odOv-aTClAQ"
+tags: vtgd
 ---
 For this [Vermont Game Developers](http://www.meetup.com/Vermont-Game-Developers/) meetup, [Marguerite Dibble](https://www.linkedin.com/pub/marguerite-dibble/24/934/747) talks through the adventure of starting and independent studio from the ground up. We'll explore funding options, management strategies, and how to make sure that your studio accomplishes its goals in the unpredictable and erratic world of game development.
 

@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #14: And the Wobbly Eyes Have It"
 video-id: "b-0LjXro4MU"
+tags: mockup-monday
 ---
 In forsaking cuteness, I forsook myself. More cuter eyes by request.

@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Meet ALL THE PEOPLE!"
 title: "Mockup Monday #40: Meetup Success!"
 video-id: "HgL6jouR9dk"
+tags: mockup-monday
 ---
 
 Just a little recap of my experience at the first [Vermont Game

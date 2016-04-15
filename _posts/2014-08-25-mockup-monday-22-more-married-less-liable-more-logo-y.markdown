@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #22: More Married, Less Liable, More Logo-y"
 video-id: "6fWadI2xi1U"
+tags: mockup-monday
 ---
 many married
 

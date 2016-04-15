@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #15: Twelve Degrees of Freedom to Hold You"
 video-id: "6RsM6DYZpps"
+tags: mockup-monday
 ---
 Quadrapus now with greater squirmy-ness than before!

@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #6: Quadrapus Shoot 'em Up"
 video-id: "i_n4oMNJBMk"
+tags: mockup-monday
 ---
 This video is about MM6

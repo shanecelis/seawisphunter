@@ -7,5 +7,6 @@ category: "Mockup Monday"
 description: "My sister could beat you all up!"
 title: "Mockup Monday #29: Sibling Rivalry"
 video-id: "-iluFE0NEdk"
+tags: mockup-monday
 ---
 My sister could beat you all up!

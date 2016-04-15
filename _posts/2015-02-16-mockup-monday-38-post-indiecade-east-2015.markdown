@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "I can haz indie nao?"
 title: "Mockup Monday #38: Post IndieCade East 2015"
 video-id: "x4vq3mbnPPg"
+tags: mockup-monday
 ---
 
 I went to [IndieCade East](http://www.indiecade.com/east_2015/) last

@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "First they came for my money, and I said nothing. Then they came for my assets, and I transferred them. Then they came for my doge, and I said, \"Such avarice. Wow.\""
 title: "Mockup Monday #33: Bitcoin Open Assets Idea"
 video-id: "XtDbJnZkxok"
+tags: mockup-monday
 ---
 I had an idea for applying the Bitcoin Open Assets to create
 Transferable Software Licenses.  I tweeted about it.

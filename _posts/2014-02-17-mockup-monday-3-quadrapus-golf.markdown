@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #3: Quadrapus Golf"
 video-id: "1lmHYky_Qew"
+tags: mockup-monday
 ---
 This is a tech demo I did that accompanies a research paper of mine.  I added the #LeapMotion to help with outreach activities at University of Vermont.
 

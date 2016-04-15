@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "This video is about Mockup Monday 45"
 title: "Mockup Monday #45: Mini Arcade Cabinet Leap Motion Mod"
 video-id: "_Iw0P2E10Io"
+tags: mockup-monday
 ---
 In this video I took my [mini arcade cabinet](http://www.retrobuiltgames.com/diy-kits-shop/porta-pi-arcade-wood-kit-9/) from retrobuiltgames.com and modified it to use a [Leap Motion Controller](https://www.leapmotion.com).  I sent my Leap Motion to [Ryan Bates](https://twitter.com/retrobuiltgames) of retrobuiltgames and he designed and fabricated the new front plate.  It came out awesome!
 

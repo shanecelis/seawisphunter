@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "This video is about Mockup Monday #48"
 title: "Mockup Monday #48: The Magic of Fiction"
 video-id: "vovRYkZ6S9I"
+tags: mockup-monday
 ---
 This was a talk I gave at the [Tech Show and Tell](http://www.meetup.com/VTCode/events/227164072/) on December 11th, 2015 hosted by [Zev Averbach](https://twitter.com/zevav) and [Vermont Coders Connection](http://www.meetup.com/VTCode/).  You can see the [other talks here](/vcc/2015/12/14/vermont-coders-connection-tech-show-and-tell-12112015/).
 

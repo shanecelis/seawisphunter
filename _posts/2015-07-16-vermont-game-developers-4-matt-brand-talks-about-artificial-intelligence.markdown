@@ -7,6 +7,7 @@ category: vtgd
 description: "For this meetup Matt will go over some basic AI principles and show some insight into how he developed the AI techniques specifically for Pathogen and Dominant Species..."
 title: "Vermont Game Developers #4: Matt Brand talks about Artificial Intelligence"
 video-id: "IPno-LCeZaA"
+tags: vtgd
 ---
 
 For this session of [Vermont Game Developers](http://www.meetup.com/Vermont-Game-Developers/), [Matt Brand](https://twitter.com/mattbrand) went over some basic AI principles and showed some insight into how he developed the AI techniques specifically for [Pathogen](http://pathogen.co/) and [Dominant Species](http://www.insidegmt.com/?tag=dominant-species).

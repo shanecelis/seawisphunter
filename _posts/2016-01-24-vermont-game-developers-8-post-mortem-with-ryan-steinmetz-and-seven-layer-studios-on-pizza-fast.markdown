@@ -7,6 +7,7 @@ category: vtgd
 description: "Ryan Steinmetz and his team at Seven Layer Studios will be sharing their experience designing, implementing and releasing Pizza! Fast! Hear about what it really takes to go from an idea to a full-fledged game."
 title: "Vermont Game Developers #8: Post Mortem with Ryan Steinmetz and Seven Layer Studios on Pizza Fast!"
 video-id: "rX-k1CZTss8"
+tags: vtgd
 ---
 [Ryan Steinmetz](https://twitter.com/7LayerStudios) and his team at [Seven Layer Studios](http://www.sevenlayerstudios.com/) share their experience designing, implementing and releasing [Pizza! Fast!](https://itunes.apple.com/us/app/pizza!-fast!/id1031953032?mt=8&ign-mpt=uo%3D4) for this [meetup](http://www.meetup.com/Vermont-Game-Developers/events/226088070/). Hear about what it really takes to go from an idea to a full-fledged game.
 

@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #16: Quadrapus Sumo Wrestling"
 video-id: "cpyj7dzkAKQ"
+tags: mockup-monday
 ---
 EIGHT LEGS ENTER. FOUR LEGS LEAVE.
 

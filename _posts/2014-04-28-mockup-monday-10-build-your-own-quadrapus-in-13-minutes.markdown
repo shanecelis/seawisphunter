@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #10: Build Your Own Quadrapus in 13 Minutes"
 video-id: "sp1G1BSjIs4"
+tags: mockup-monday
 ---
 DIY Quadrapus! Why pay market rate for quadrapuses when you can build your own?

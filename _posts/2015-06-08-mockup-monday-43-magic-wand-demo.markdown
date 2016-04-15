@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Yerr a wizard, Harry!"
 title: "Mockup Monday #43: Magic Wand Demo"
 video-id: "gZRL8mRxLAE"
+tags: mockup-monday
 ---
 My first live-recorded Mockup Monday!  Recorded at the [Vermont Game Developers](http://www.meetup.com/Vermont-Game-Developers/) meetup.
 

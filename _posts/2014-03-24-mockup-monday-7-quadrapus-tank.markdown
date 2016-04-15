@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #7: Quadrapus Tank"
 video-id: "GNhyjE0DbOY"
+tags: mockup-monday
 ---
 Only qualified quadrapus game handlers are allowed to ride quadrapuses (quadrapi? quadrapoos?).

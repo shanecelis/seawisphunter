@@ -45,6 +45,10 @@ a.active {
     color: rgb(44, 62, 80);
     outline: 0;
 }
+#byline {
+    padding-bottom: 20px;
+}
+
 
 h1,
 h2,
@@ -320,7 +324,9 @@ section.success {
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
-    padding-bottom: .5em;
+    /*padding-bottom: .5em; */
+    padding-bottom: 0;
+    height: 61px;
     border-bottom: 1px solid #eee;
 }
 
@@ -586,4 +592,26 @@ footer .footer-below {
   margin-top: -75px; 
   height: 75px; 
   visibility: hidden; 
+}
+
+/* Mail chimp sign up form style.
+http://codepen.io/blehnert/pen/tfdmI */
+
+/* http://ben.balter.com/2014/03/13/pages-anchor-links/ */
+.header-link {
+  position: absolute;
+  left: -0.5em;
+  opacity: 0;
+
+  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
 }

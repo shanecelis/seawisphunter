@@ -3,12 +3,15 @@ published: true
 layout: video-post
 date: 2015-02-02T20:18:31.000Z
 img: img/youtube/2015-02-02--1JDMMQPORw.jpg
-category: Mockup Monday
+category: product
 description: "\"No, this hover hand is cool, I swear!\""
-title: "Mockup Monday #36: Leap Motion Cursor for Unity's New UI"
+title: "Custom Pointer"
 video-id: "-1JDMMQPORw"
-tags: mockup-monday
 ---
+
+Custom Pointer is available on the [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/43318).
+
+* * *
 
 I've been working on making a game that uses the
 [Leap Motion](https://www.leapmotion.com) Controller.  I ran into a

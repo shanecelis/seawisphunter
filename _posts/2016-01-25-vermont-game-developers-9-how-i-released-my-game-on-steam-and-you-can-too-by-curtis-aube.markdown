@@ -7,6 +7,7 @@ category:
 description: "For this meetup Curtis Aube will guide us through the process of releasing a game through Steam using his recent experience with Marble Muse…"
 title: "Vermont Game Developers #9: How I Released My Game on Steam and You Can Too by Curtis Aube"
 video-id: "2K5J03FosLA"
+tags: vtgd
 ---
 For this [meetup](http://www.meetup.com/Vermont-Game-Developers/events/226643330/) [Curtis Aube](https://twitter.com/KetosGames) guides us through the process of releasing a game through Steam using his recent experience with [Marble Muse](http://store.steampowered.com/app/368310/). His talk covers Greenlight, SDK integration, building with SteamPipe, releasing, and handling the public response leading up to and following a game release. He shares his successes and failures throughout this process to prepare you to hopefully have a smooth, successful launch of your game on Steam.
 

@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #20: A Quadrapus Library for Every Child"
 video-id: "7iXSPgzAkmQ"
+tags: mockup-monday
 ---
 Where ya gonna put all those quadrapuses?

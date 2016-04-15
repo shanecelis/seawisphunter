@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #18: Evolve robots yourself with Ludobots"
 video-id: "3veihoAaKuc"
+tags: mockup-monday
 ---
 Link to app here[1]. Ludobots was developed by Prof. Josh Bongard and the Morphology, Evolution, and Cognition Lab (MECL) at University of Vermont.
 

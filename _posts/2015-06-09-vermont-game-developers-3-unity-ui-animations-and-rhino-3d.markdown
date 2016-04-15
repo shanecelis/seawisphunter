@@ -7,6 +7,7 @@ category: vtgd
 description: "This video is about VTGD3"
 title: "Vermont Game Developers #3: Unity UI Animations and Rhino 3D"
 video-id: "K2TlaR4A3g4"
+tags: vtgd
 ---
 For this session of [Vermont Game Developers](http://www.meetup.com/Vermont-Game-Developers/), we had two tech tutorials and two show-and-tells.  Here is [the video](https://www.youtube.com/watch?v=K2TlaR4A3g4) and some highlights.
 

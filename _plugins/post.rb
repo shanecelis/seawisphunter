@@ -40,7 +40,7 @@ module Jekyll
     # respective values in the given template
     #
     # Returns the unsanitized String URL
-    def generate_url(template)
+    def generate_url_from_hash(template)
       @placeholders.inject(template) do |result, token|
         break result if result.index(':').nil?
         if token.last.nil?
@@ -50,6 +50,22 @@ module Jekyll
           result.gsub(/:#{token.first}/, self.class.escape_path(token.last.gsub(/ /, "-")))
         end
       end
+    end
+
+    # s/replacement/replacement.gsub(/ /, "-")/
+    # I did this so that my url would not be
+    # http://../mockup%20monday/2014/02/24/...
+    # but
+    # http://../mockup-monday/2014/02/24/...
+    def generate_url_from_drop(template)
+      template.gsub(/:([a-z_]+)/.freeze) do |match|
+        replacement = @placeholders.public_send(match.sub(':'.freeze, ''.freeze))
+        if replacement.nil?
+          ''.freeze
+        else
+          self.class.escape_path(replacement.gsub(/ /, "-"))
+        end
+      end.gsub(/\/\//.freeze, '/'.freeze)
     end
   end
 

@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #4: Venus Flytrap Featuring Flappy Quadrapus"
 video-id: "wHMEaCEFJJ4"
+tags: mockup-monday
 ---
 From great legged beasts, to predatory plants and their tiny prey, join me to survey what else can be jammed in these virtual jars.
 

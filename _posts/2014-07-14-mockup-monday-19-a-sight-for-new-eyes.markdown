@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #19: A Sight For New Eyes"
 video-id: "AovSOhmOtHE"
+tags: mockup-monday
 ---
 I gave them eyes, so that they might destroy each other more quickly.

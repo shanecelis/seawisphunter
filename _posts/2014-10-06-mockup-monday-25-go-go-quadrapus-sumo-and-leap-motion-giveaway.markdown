@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #25: Go Go Quadrapus Sumo and Leap Motion Giveaway"
 video-id: "V2YGPo8xHmk"
+tags: mockup-monday
 ---
 Quadrapus Sumo is a go.  I guess I have to finish it now.

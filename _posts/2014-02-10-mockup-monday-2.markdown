@@ -7,5 +7,6 @@ category: Mockup Monday
 description: "Prototyping some robot game development ideas"
 title: "Mockup Monday #2"
 video-id: "MlEK3CL0DAw"
+tags: mockup-monday
 ---
 Prototyping some robot game development ideas

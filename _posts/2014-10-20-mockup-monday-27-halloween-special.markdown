@@ -7,5 +7,6 @@ category: Mockup Monday
 description: "So many technical difficulties recording this thing! Switched from Quicktime recording to OBS. My laptop's not good enough for this low latency, high throughput, streamin' game."
 title: "Mockup Monday #27: Halloween Special"
 video-id: "ohY21WvseiA"
+tags: mockup-monday
 ---
 So many technical difficulties recording this thing! Switched from Quicktime recording to OBS. My laptop's not good enough for this low latency, high throughput, streamin' game.

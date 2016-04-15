@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #8: Quadrapus Brains Exposed and Beta Invites"
 video-id: "-dKeutLsrVk"
+tags: mockup-monday
 ---
 Pluck random brains from the ether. Impress your friends!

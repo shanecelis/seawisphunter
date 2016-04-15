@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Looking for group"
 title: "Mockup Monday #39: Vermont Game Developers Meetup Group"
 video-id: "cGSxpLe7qC4"
+tags: mockup-monday
 ---
 I met with the [Vermont Gaming Community: Game Design
 Group](https://www.facebook.com/groups/1408039082775192/) last week.

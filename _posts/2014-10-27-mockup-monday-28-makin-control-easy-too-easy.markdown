@@ -7,5 +7,6 @@ category: Mockup Monday
 description: "Look at 'dem particles! Woo hoo!"
 title: "Mockup Monday #28: Makin' Control Easy, Too Easy"
 video-id: "ugkDfPnCAcM"
+tags: mockup-monday
 ---
 Look at 'dem particles! Woo hoo!

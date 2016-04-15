@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #21: This Quadrapus Fits Like a Glove"
 video-id: "SNMllrjVNbs"
+tags: mockup-monday
 ---
 You put your right hand in / you shake it all about / you fall to your doom / that's what it's all about / QUADRAPUS!

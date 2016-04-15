@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #13: Kill the Ugly Quadrapus"
 video-id: "MghDFpUYl-w"
+tags: mockup-monday
 ---
 This video is about Mockup Monday 13

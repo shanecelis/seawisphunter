@@ -6,6 +6,7 @@ title: "Simulating Buoyancy: Part\u00A01"
 category: blog
 img: "img/buoyancy-part-1.png"
 description: Learn how to simulate buoyancy in video games.
+tags: blog
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

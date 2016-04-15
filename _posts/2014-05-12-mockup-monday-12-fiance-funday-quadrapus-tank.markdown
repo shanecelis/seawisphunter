@@ -7,6 +7,7 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #12: Fiancée Funday (Quadrapus Tank)"
 video-id: "sKbv3j-y4gA"
+tags: mockup-monday
 ---
 Nykia's debut as a pro quadrapus wrangler.
 

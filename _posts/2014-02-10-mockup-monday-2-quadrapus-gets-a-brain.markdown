@@ -7,5 +7,6 @@ category: Mockup Monday
 description: Blah
 title: "Mockup Monday #2: Quadrapus Gets a Brain"
 video-id: "4RUUPxTUmdY"
+tags: mockup-monday
 ---
 Prototyping some robot game development ideas

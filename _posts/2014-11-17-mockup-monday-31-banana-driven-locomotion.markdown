@@ -7,6 +7,7 @@ category: Mockup Monday
 description: "Banana for Your Thoughts and Compliance http://www.twitch.tv/shanecelis/profile"
 title: "Mockup Monday #31: Banana Driven Locomotion"
 video-id: "wjc_OzCeEgU"
+tags: mockup-monday
 ---
 
 I implemented a new control scheme in Quadrapus Sumo using the palm

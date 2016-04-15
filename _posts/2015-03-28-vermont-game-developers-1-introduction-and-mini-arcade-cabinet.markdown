@@ -7,6 +7,7 @@ category: VTGD
 description: "First Vermont Game Developers meetup!"
 title: "Vermont Game Developers #1: Introduction and Mini Arcade Cabinet"
 video-id: "avEVj3BNGGs"
+tags: vtgd
 ---
 We had our first very successful [Vermont Game Developers](http://www.meetup.com/Vermont-Game-Developers/) meetup!  I was really impressed by the turnout.  I think it was thirty plus.  We had initially hoped for twelve-ish.
 

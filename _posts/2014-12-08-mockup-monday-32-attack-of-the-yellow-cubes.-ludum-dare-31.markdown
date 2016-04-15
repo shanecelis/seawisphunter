@@ -7,5 +7,6 @@ category: Mockup Monday
 description: "I made a game in 48 hours. This Mockup Monday is my apology video. ;) My game is Attack of The Yellow Cubes: A Game That Doesn’t Sponsor Any Ecologically Detrimental Messages!"
 title: "Mockup Monday #32: Attack of The Yellow Cubes. Ludum Dare #31"
 video-id: "cV2WeRKGMs8"
+tags: mockup-monday
 ---
 I made a game in 48 hours. This Mockup Monday is my apology video. ;) My game is Attack of The Yellow Cubes: A Game That Doesn’t Sponsor Any Ecologically Detrimental Messages!

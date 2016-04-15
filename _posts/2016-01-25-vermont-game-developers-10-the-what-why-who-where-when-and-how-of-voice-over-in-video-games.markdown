@@ -7,6 +7,7 @@ category:
 description: "For this meet up we will be diving into the world of voice over with Sam Kurnit…"
 title: "Vermont Game Developers #10: The What, Why, Who, Where, When, and How of Voice Over in Video Games"
 video-id: "luvKs4Hsk9Q"
+tags: vtgd
 ---
 For this [meetup](http://www.meetup.com/Vermont-Game-Developers/events/227420296/) we  dive into the world of voice over with [Sam Kurnit](https://twitter.com/SamKurnit). Sam demystifies exactly how the voice over process works and answers a variety of questions. Questions like “Where do I find voice talent?” and “What should I look for in a voice actor?” and “Why should I even use voice actors?”
 
