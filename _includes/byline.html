@@ -1,6 +1,8 @@
+{% if include.page.author %}
 <div id="byline" class="row">
   <div class="col-lg-8 col-lg-offset-2 wrap">
     <hr/>
-    <p>Posted on {{ include.page.date | date: "%B %-d, %Y" }} by <a href="http://twitter.com/shanecelis">Shane Celis</a>, tags: <span id="tags">{{ include.page | tags }}</span></p>
+    <p>Posted on {{ include.page.date | date: "%B %-d, %Y" }} by <a href="{{ include.page.author_url }}">{{ include.page.author }}</a>, tags: <span id="tags">{{ include.page | tags }}</span></p>
   </div>
 </div>
+{% endif %}

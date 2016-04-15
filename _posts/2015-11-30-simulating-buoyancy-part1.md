@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: video-post
 date: 2015-11-24T17:17:10EST
 title: "Simulating Buoyancy: Part\u00A01"
 category: blog

@@ -19,10 +19,22 @@ redcarpet:
 collections:
   products:
     output: true
+# these should be put under 'tagging'
 tag_page_layout: tag_page
 tag_page_dir: tags
+
 gems:
   - jekyll-redirect-from
   - redcarpet
   - jekyll/tagging
   - jekyll/email-protect
+  - jekyll-category-aware-prev-next
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Shane Celis"
+      author_url: "http://twitter.com/shanecelis"

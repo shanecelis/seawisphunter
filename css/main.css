@@ -37,6 +37,25 @@ a.active {
     //font-weight: 700; */
 }
 
+#next-prev a,
+#next-prev a:hover,
+#next-prev a:focus,
+#next-prev a:active,
+#next-prev a.active {
+    outline: 0;
+    color: #fff;
+    //font-weight: 700; */
+}
+
+#tags a,
+#tags a:hover,
+#tags a:focus,
+#tags a:active,
+#tags a.active {
+    color: #e25a39 !important;
+    outline: 0;
+}
+
 #portfolio a,
 #portfolio a:hover,
 #portfolio a:focus,
